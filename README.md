@@ -74,25 +74,25 @@
       </tr>
       <tr>
         <td><b>Associate Data Engineer</b></td>
-        <td align="center">Datcamp</td>
+        <td align="center">Datacamp</td>
         <td align="center">2026</td>
         <td align="center"><a href="https://github.com/engr-julia/engr-julia/blob/main/certs/DEA0010305713074.pdf">Verify Credential</a></td>
       </tr>
       <tr>
         <td><b>Data Governance</b></td>
-        <td align="center">Datcamp</td>
+        <td align="center">Datacamp</td>
         <td align="center">2026</td>
         <td align="center"><a href="https://github.com/engr-julia/engr-julia/blob/main/certs/DG0023060998727.pdf">Verify Credential</a></td>
       </tr>
       <tr>
         <td><b>Data Literacy</b></td>
-        <td align="center">Datcamp</td>
+        <td align="center">Datacamp</td>
         <td align="center">2026</td>
         <td align="center"><a href="https://github.com/engr-julia/engr-julia/blob/main/certs/DL0035757574930.pdf">Verify Credential</a></td>
       </tr>
       <tr>
         <td><b>Python Data Associate</b></td>
-        <td align="center">Datcamp</td>
+        <td align="center">Datacamp</td>
         <td align="center">2026</td>
         <td align="center"><a href="https://github.com/engr-julia/engr-julia/blob/main/certs/PDA0012574364724.pdf">Verify Credential</a></td>
       </tr>
